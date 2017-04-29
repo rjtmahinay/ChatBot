@@ -10,7 +10,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author De Guzman
+ * @author De Guzman and Aspire
  */
 public class BackChain {
 
