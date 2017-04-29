@@ -1,2 +1,2 @@
 # ChatBot
-Java chat bot 
+American TV Series Bot using Backward Chaining Algorithm
