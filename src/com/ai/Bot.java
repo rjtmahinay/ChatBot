@@ -1,5 +1,6 @@
 package com.ai;
 
+import java.awt.Color;
 import javax.swing.JTextArea;
 
 /**
@@ -9,7 +10,7 @@ import javax.swing.JTextArea;
 public class Bot {
 
     void botChat(String string, JTextArea textArea) {
-
-        textArea.append("Bot: " + string + "\n");
+        textArea.setForeground(Color.blue);
+        textArea.append("Bot: " + string + ".\n");
     }
 }

@@ -1,0 +1,445 @@
+name=>Ellen;
+Ellen=>Chat bot;
+
+title=>Hannah Montana;
+Hannah Montana=>genre&Hannah Montana;
+Hannah Montana=>duration&Hannah Montana;
+Hannah Montana=>seasons;
+Hannah Montana=>episodes;
+Hannah Montana=>rating;
+Hannah Montana=>main characters;
+Hannah Montana=>creator;
+genre&Hannah Montana=>Comedy, Family, Music;
+duration=>2006-2011;
+seasons=>4;
+episodes=>100;
+rating=>4.8;
+main characters=>Miley Cyrus (Hannah Montana);
+creator=>Rich Correll,
+Barry O'Brien,
+Michael Poryes;
+
+title=>Wizard's of Waverly Place;
+Wizard's of Waverly Place=>genre;
+Wizard's of Waverly Place=>duration;
+Wizard's of Waverly Place=>seasons;
+Wizard's of Waverly Place=>episodes;
+Wizard's of Waverly Place=>rating;
+Wizard's of Waverly Place=>main characters;
+Wizard's of Waverly Place=>creator;
+genre=>Comedy, Family, Fantasy;
+duration=>2007-2012;
+seasons=>4;
+episodes=>106;
+rating=>6.8;
+main character=>Selena Gomez (Alex Russo);
+creator=>Todd J. Greenwald;
+
+title=>The Suite Life of Zack and Cody;
+The Suite Life of Zack and Cody=>genre;
+The Suite Life of Zack and Cody=>duration;
+The Suite Life of Zack and Cody=>seasons;
+The Suite Life of Zack and Cody=>episodes;
+The Suite Life of Zack and Cody=>rating;
+The Suite Life of Zack and Cody=>main character;
+The Suite Life of Zack and Cody=>creator;
+genre=>Comedy,Family;
+duration=>2005-2008;
+seasons=>3;
+episodes=>87;
+rating=>6.3;
+main character=>Cole Sprouse (Cody Martin)
+,Dylan Sprouse (Zack Martin);
+creator=>Danny Kallis
+,Jim Geoghan;
+
+title=>The Suite Life on Deck;
+The Suite Life on Deck=>genre;
+The Suite Life on Deck=>duration;
+The Suite Life on Deck=>seasons;
+The Suite Life on Deck=>episodes;
+The Suite Life on Deck=>rating;
+The Suite Life on Deck=>main character;
+The Suite Life on Deck=>creator;
+genre=>Action, Adventure, Comedy;
+duration=>2008-2011;
+seasons=>3;
+episodes=>71;
+rating=>6.2;
+main character=>Cole Sprouse (Cody Martin),
+Dylan Sprouse (Zack Martin);
+creator=>Danny Kallis,
+Jim Geoghan,
+Pamela Eells;
+
+title=>How I Met Your Mother;
+How I Met Your Mother=>genre;
+How I Met Your Mother=>duration;
+How I Met Your Mother=>seasons;
+How I Met Your Mother=>episodes;
+How I Met Your Mother=>rating;
+How I Met Your Mother=>main character;
+How I Met Your Mother=>creator;
+genre=>Comedy, Romance;
+duration=>2005-2014;
+seasons=>9;
+episodes=>208;
+rating=>8.4;
+main character=>Too many;
+creator=>Carter Bays,
+Craig Thomas;
+
+title=>Phineas and Ferb;
+Phineas and Ferb=>genre;
+Phineas and Ferb=>duration;
+Phineas and Ferb=>seasons;
+Phineas and Ferb=>episodes;
+Phineas and Ferb=>rating;
+Phineas and Ferb=>main character;
+Phineas and Ferb=>creator;
+genre=>Animation, Action, Comedy;
+duration=>2007-2015;
+seasons=>4;
+episodes=>129;
+rating=>8;
+main character=>Vincent Martella (Phineas Flynn),
+Thomas Brodie-Sangster (Ferb Fletcher);
+creator=>Jeff "Swampy" Marsh,
+Dan Povenmire;
+
+title=>Gossip Girl;
+Gossip Girl=>genre;
+Gossip Girl=>duration;
+Gossip Girl=>seasons;
+Gossip Girl=>episodes;
+Gossip Girl=>rating;
+Gossip Girl=>main character;
+Gossip Girl=>creator;
+genre=>Drama, Romance;
+duration=>2007-2012;
+seasons=>6;
+episodes=>121;
+rating=>7.4;
+main character=>Blake Lively (Serena van der Woodsen)
+;
+creator=>Stephanie Savage,
+Josh Schwartz;
+
+title=>That's So Raven;
+That's So Raven=>genre;
+That's So Raven=>duration;
+That's So Raven=>seasons;
+That's So Raven=>episodes;
+That's So Raven=>rating;
+That's So Raven=>main character;
+That's So Raven=>creator;
+genre=>Comedy, Family, Fantasy;
+duration=>2003-2007;
+seasons=>4;
+episodes=>100;
+rating=>6.5;
+main character=>Raven-Symon� (Raven Baxter);
+creator=>"Michael Poryes
+Susan Sherman";
+
+title=>The Office;
+The Office=>genre;
+The Office=>duration;
+The Office=>seasons;
+The Office=>episodes;
+The Office=>rating;
+The Office=>main character;
+The Office=>creator;
+genre=>Comedy;
+duration=>2005-2013;
+seasons=>9;
+episodes=>188;
+rating=>8.8;
+main character=>I'm sorry, I don't know;
+creator=>Greg Daniels,
+Rickey Gervais,
+Stephen Merchant;
+
+title=>Parks and Recreation;
+Parks and Recreation=>genre;
+Parks and Recreation=>duration;
+Parks and Recreation=>seasons;
+Parks and Recreation=>episodes;
+Parks and Recreation=>rating;
+Parks and Recreation=>main character;
+Parks and Recreation=>creator;
+genre=>Comedy;
+duration=>2009-2015;
+seasons=>7;
+episodes=>125;
+rating=>8.6;
+main character=>I'm sorry, I don't know;
+creator=>Greg Daniels,
+Michael Schur;
+
+title=>Ghost Whisperer;
+Ghost Whisperer=>genre;
+Ghost Whisperer=>duration;
+Ghost Whisperer=>seasons;
+Ghost Whisperer=>episodes;
+Ghost Whisperer=>rating;
+Ghost Whisperer=>main character;
+Ghost Whisperer=>creator;
+genre=>Drama, Fantasy;
+duration=>2005-2010;
+seasons=>5;
+episodes=>107;
+rating=>6.4;
+main character=>Jennifer Love Hewitt (Melinda Gordon);
+creator=>John Gray;
+
+title=>Sonny With A Chance;
+Sonny With A Chance=>genre;
+Sonny With A Chance=>duration;
+Sonny With A Chance=>seasons;
+Sonny With A Chance=>episodes;
+Sonny With A Chance=>rating;
+Sonny With A Chance=>main character;
+Sonny With A Chance=>creator;
+genre=>Comedy, Family, Romance;
+duration=>2009-2011;
+seasons=>2;
+episodes=>46;
+rating=>6.2;
+main character=>Demi Lovato (Sonny Munroe);
+creator=>Steve Marmel;
+
+title=>Breaking Bad;
+Breaking Bad=>genre;
+Breaking Bad=>duration;
+Breaking Bad=>seasons;
+Breaking Bad=>episodes;
+Breaking Bad=>rating;
+Breaking Bad=>main character;
+Breaking Bad=>creator;
+genre=>Crime, Drama, Thriller;
+duration=>2008-2013;
+seasons=>5;
+episodes=>62;
+rating=>9.5;
+main character=>I'm sorry, I don't know;
+creator=>Vince Gilligan;
+
+title=>Victorious;
+Victorious=>genre;
+Victorious=>duration;
+Victorious=>seasons;
+Victorious=>episodes;
+Victorious=>rating;
+Victorious=>main character;
+Victorious=>creator;
+genre=>Comedy, Drama, Family;
+duration=>2010-2013;
+seasons=>4;
+episodes=>57;
+rating=>6.9;
+main character=>Victoria Justice (Tony Vega);
+creator=>Dan Schneider;
+
+title=>iCarly;
+iCarly=>genre;
+iCarly=>duration;
+iCarly=>seasons;
+iCarly=>episodes;
+iCarly=>rating;
+iCarly=>main character;
+iCarly=>creator;
+genre=>Comedy, Drama, Family;
+duration=>2007-2012;
+seasons=>6;
+episodes=>96;
+rating=>6.5;
+main character=>Miranda Cosgrove (Carly Shay);
+creator=>Dan Schneider;
+
+title=>Kim Possible;
+Kim Possible=>genre;
+Kim Possible=>duration;
+Kim Possible=>seasons;
+Kim Possible=>episodes;
+Kim Possible=>rating;
+Kim Possible=>main characters;
+Kim Possible=>creator;
+genre=>Animation, Action, Adventure;
+duration=>2002-2007;
+seasons=>4;
+episodes=>86;
+rating=>7.2;
+main characters=> Christy Carlson Romano (Kim Possible);
+creator=>Mark McCorkle, Robert Schooley;
+
+title=>The Vampire Diaries;
+The Vampire Diaries=>genre;
+The Vampire Diaries=>duration;
+The Vampire Diaries=>seasons;
+The Vampire Diaries=>episodes;
+The Vampire Diaries=>rating;
+The Vampire Diaries=>main characters;
+The Vampire Diaries=>creator;
+genre=>Drama, Fantasy, Horror;
+duration=>2009-2017;
+seasons=>8;
+episodes=>171;
+rating=>7.8;
+main character=>I'm sorry, I don't know;
+creator=>Julie Plec, 
+Kevin Williamson;
+
+title=>Drake and Josh;
+Drake and Josh=>genre;
+Drake and Josh=>duration;
+Drake and Josh=>seasons;
+Drake and Josh=>episodes;
+Drake and Josh=>rating;
+Drake and Josh=>main characters;
+Drake and Josh=>creator;
+genre=>Comedy, Family;
+duration=>2004-2007;
+seasons=>4;
+episodes=>59;
+rating=>7.7;
+main character=>Drake Bell (Drake Parker), 
+Josh Bell (Josh Nichols);
+creator=>Dan Schneider;
+
+title=>Gravity Falls;
+Gravity Falls=>genre;
+Gravity Falls=>duration;
+Gravity Falls=>seasons;
+Gravity Falls=>episodes;
+Gravity Falls=>rating;
+Gravity Falls=>main characters;
+Gravity Falls=>creator;
+genre=>Animation, Adventure, Comedy;
+duration=>2012-2016;
+seasons=>2;
+episodes=>40;
+rating=>8.9;
+main character=>Jason Ritter (Dipper Pines), 
+Alex Hitsch (Grunkle Stan)
+Kristen Schaal (Mabel Pines);
+creator=>Alex Hirsch;
+
+title=>Avatar: The Last Airbender;
+Avatar: The Last Airbender=>genre;
+Avatar: The Last Airbender=>duration;
+Avatar: The Last Airbender=>seasons;
+Avatar: The Last Airbender=>episodes;
+Avatar: The Last Airbender=>rating;
+Avatar: The Last Airbender=>main characters;
+Avatar: The Last Airbender=>creator;
+genre=>Animation, Action, Adventure;
+duration=>2005-2008;
+seasons=>3;
+episodes=>61;
+rating=>9.2;
+main character=>Zach Tyler (Aang);
+creator=>Michael Dante DiMartino
+, Bryan Konietzko;
+
+title=>The Legend of Korra;
+The Legend of Korra=>genre;
+The Legend of Korra=>duration;
+The Legend of Korra=>seasons;
+The Legend of Korra=>episodes;
+The Legend of Korra=>rating;
+The Legend of Korra=>main characters;
+The Legend of Korra=>creator;
+genre=>Animation, Action, Adventure;
+duration=>2012-2014;
+seasons=>4;
+episodes=>52;
+rating=>8.6;
+main character=>Janet Varney (Korra);
+creator=>Michael Dante DiMartino, 
+Bryan Konietzko;
+
+title=>The Whispers;
+The Whispers=>genre;
+The Whispers=>duration;
+The Whispers=>seasons;
+The Whispers=>episodes;
+The Whispers=>rating;
+The Whispers=>main characters;
+The Whispers=>creator;
+genre=>Drama, Horror, Mystery;
+duration=>2015;
+seasons=>1;
+episodes=>13;
+rating=>7.3;
+main character=>Lily Rabe (Claire Bennigan);
+creator=>Soo Hugh;
+
+title=>Austin & Ally;
+Austin & Ally=>genre;
+Austin & Ally=>duration;
+Austin & Ally=>seasons;
+Austin & Ally=>episodes;
+Austin & Ally=>rating;
+Austin & Ally=>main characters;
+Austin & Ally=>creator;
+genre=>Comedy, Family, Music;
+duration=>2011-2016;
+seasons=>4;
+episodes=>87;
+rating=>6;
+main character=>Ross Lynch (Austin Moon), 
+Laura Marano (Ally Dawson);
+creator=>Kevin Kopelow, 
+Heath Seifert;
+
+title=>Glee;
+Glee=>genre;
+Glee=>duration;
+Glee=>seasons;
+Glee=>episodes;
+Glee=>rating;
+Glee=>main characters;
+Glee=>creator;
+genre=>Comedy, Drama, Music;
+duration=>2009-2015;
+seasons=>6;
+episodes=>121;
+rating=>6.7;
+main character=>I'm sorry, I don't know;
+creator=>Ian Brennan
+, Brad Falchuk, Ryan Murphy;
+
+title=>Ugly Betty;
+Ugly Betty=>genre;
+Ugly Betty=>duration;
+Ugly Betty=>seasons;
+Ugly Betty=>episodes;
+Ugly Betty=>rating;
+Ugly Betty=>main characters;
+Ugly Betty=>creator;
+genre=>Comedy, Drama, Romance;
+duration=>2006-2010;
+seasons=>4;
+episodes=>85;
+rating=>6.6;
+main character=>America Ferrera (Betty Suarez);
+creator=>Silvio Horta, 
+Fernando Gaitan;
+
+title=>Two and a Half Men;
+Two and a Half Men=>genre;
+Two and a Half Men=>duration;
+Two and a Half Men=>seasons;
+Two and a Half Men=>episodes;
+Two and a Half Men=>rating;
+Two and a Half Men=>main characters;
+Two and a Half Men=>creator;
+genre=>Comedy, Romance;
+duration=>2003-2015;
+seasons=>12;
+episodes=>262;
+rating=>7.1;
+main character=>I'm sorry, I don't know;
+creator=>Lee Aronsohn, 
+Chuck Lorre;
