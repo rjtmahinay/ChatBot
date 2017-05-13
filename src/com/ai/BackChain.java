@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.ai;
 
 import java.util.ArrayList;
@@ -120,7 +115,7 @@ public class BackChain {
 
     public static boolean conclusionContains(String clause, String c) {
         String conclusion = clause.split("=>")[1];
-        
+
         return conclusion.equals(c);
     }
 
