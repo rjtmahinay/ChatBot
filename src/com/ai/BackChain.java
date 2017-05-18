@@ -1,11 +1,12 @@
+
 package com.ai;
 
 import java.util.ArrayList;
-import javax.swing.JTextArea;
+import javax.swing.JTextPane;
 
 /**
  *
- * @author De Guzman and Aspire
+ * @author De Guzman
  */
 public class BackChain {
 
@@ -38,9 +39,9 @@ public class BackChain {
         }
     }
 
-    public String start(JTextArea textArea) {
-        String output = "";
-        if (bcentails(textArea)) {
+    public String start(JTextPane textPane) {
+        String output;
+        if (bcentails(textPane)) {
             //output = "YES: ";
             output = "YES";
 //            for (int i = entailed.size() - 1; i >= 0; i--) {
@@ -58,7 +59,7 @@ public class BackChain {
         return output;
     }
 
-    public boolean bcentails(JTextArea textArea) {
+    public boolean bcentails(JTextPane textPane) {
         ArrayList<String> p = new ArrayList<>();
         while (!agenda.isEmpty()) {
             //get conclusion
@@ -84,9 +85,9 @@ public class BackChain {
                 Bot bot = new Bot();
                 System.out.println("learning here...");
                 if (random == 1) {
-                    bot.botChat("I didn't understand your question", textArea);
+                    bot.botChat("I didn't understand your question", textPane);
                 } else if (random >= 2) {
-                    bot.botChat("I can't comprehend", textArea);
+                    bot.botChat("I can't comprehend", textPane);
                 }
                 return false;
             } else {
@@ -115,7 +116,7 @@ public class BackChain {
 
     public static boolean conclusionContains(String clause, String c) {
         String conclusion = clause.split("=>")[1];
-
+        
         return conclusion.equals(c);
     }
 
