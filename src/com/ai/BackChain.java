@@ -44,15 +44,6 @@ public class BackChain {
         if (bcentails(textPane)) {
             //output = "YES: ";
             output = "YES";
-//            for (int i = entailed.size() - 1; i >= 0; i--) {
-//                if (i == 0) {
-//                    output += entailed.get(i);
-//                } else // no comma at the end
-//                {
-//                    output += entailed.get(i) + ", ";
-//                }
-//
-//            }
         } else {
             output = "NO";
         }
