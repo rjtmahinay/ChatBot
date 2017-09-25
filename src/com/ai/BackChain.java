@@ -6,7 +6,7 @@ import javax.swing.JTextPane;
 
 /**
  *
- * @author De Guzman
+ * @author De Guzman & Mahinay
  */
 public class BackChain {
 
