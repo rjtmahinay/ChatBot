@@ -1,2 +1,2 @@
 # ChatBot
-American TV Series Bot using Backward Chaining Algorithm
+Implementation of Backward Chaining Algorithm in a selected american tv series knowledge base.
